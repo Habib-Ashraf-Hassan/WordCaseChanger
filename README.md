@@ -11,3 +11,5 @@ Each functionality in a function of its own
 From the functionality of changing a word from lower to upper case can also be modified and be used to come up with other functions like: one for replacing a word at certain word number in a certain line number
 
 The python program in the .py file and the myfile.txt and myfile2.txt were used to show the functionality of the program
+
+feel free to add any changes
